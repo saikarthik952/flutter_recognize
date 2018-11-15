@@ -10,4 +10,4 @@ Text in the Image is highlighted with Colored Boxes same with the Faces.
 
 Label is displayed over the image and the accuracy rate is also very much High.
 
-![ScreenShot]Screenshot_1542296799.png
+
