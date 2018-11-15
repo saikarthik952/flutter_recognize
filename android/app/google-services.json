@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "707040998009",
+    "firebase_url": "https://lets-go-19312.firebaseio.com",
+    "project_id": "lets-go-19312",
+    "storage_bucket": "lets-go-19312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707040998009:android:76e054e8d83dd716",
+        "android_client_info": {
+          "package_name": "things.flutter.karthik.flutterrecognize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707040998009-d1oc9j7vg314la2g3o3dfgqalvf4883b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB24EmJmQhpj6IL3gsLl9672O1sK2apR5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
