@@ -1,8 +1,13 @@
 # flutter_recognize
 
-A new Flutter application.
+A new Flutter-ML application, Developed using Firebase-ML Kit
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+It uses Firebase ML Kit where it recognizes text,faces and classifies labels for an given image.
+
+Text in the Image is highlighted with Colored Boxes same with the Faces.
+
+Label is displayed over the image and the accuracy rate is also very much High.
+
+
